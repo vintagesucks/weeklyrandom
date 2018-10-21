@@ -1,5 +1,3 @@
-# weekly-random
-
 # WeeklyRandom
 This is the repository for WeeklyRandom, a blog series in which I challenge myself to explore a random GitHub repository starred by me every week.
 
