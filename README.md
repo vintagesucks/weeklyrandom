@@ -10,6 +10,6 @@ You can follow my WeeklyRandom challenge on:
 ## Published blog posts
 
 |Date|Repository|Code|Blog Post|
-|---|---|---|---|---|
+|---|---|---|---|
 |2018-10-15|-|-|[WeeklyRandom #0](https://nikol.as/2018-10-15-weeklyrandom-0/)|
-|2018-11-03|[sindresorhus/ua-string](https://github.com/sindresorhus/ua-string)|here|[WeeklyRandom #1](https://nikol.as/2018-10-15-weeklyrandom-0/)|
+|2018-11-03|[sindresorhus/ua-string](https://github.com/sindresorhus/ua-string)|[here](https://github.com/vintagesucks/weeklyrandom/tree/master/sindresorhus/ua-string)|[WeeklyRandom #1](https://nikol.as/2018-10-15-weeklyrandom-0/)|
