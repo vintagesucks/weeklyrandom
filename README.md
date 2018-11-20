@@ -1,5 +1,5 @@
 # WeeklyRandom
-This is the repository for WeeklyRandom, a blog series in which I challenge myself to explore a random GitHub repository starred by me every week.
+This is the repository for WeeklyRandom, a blog series in which I challenge myself to explore a random GitHub repository starred by me (almost) every week.
 
 You can follow my WeeklyRandom challenge on:
 * [My blog](https://nikol.as/)
