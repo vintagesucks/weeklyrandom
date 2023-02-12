@@ -2,6 +2,7 @@
   "name": "weeklyrandom-ua-string",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fast-html-parser": "^1.0.1",
-    "got": "^9.2.2",
+    "got": "^12.5.3",
     "ua-string": "^1.2.0"
   }
 }
