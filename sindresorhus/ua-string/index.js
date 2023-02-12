@@ -1,6 +1,6 @@
-const got = require('got');
-const uaString = require('ua-string');
-const HTMLParser = require('fast-html-parser');
+import got from 'got';
+import uaString from 'ua-string';
+import HTMLParser from 'fast-html-parser';
 
 (async () => {
     try {
