@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fast-html-parser": "^1.0.1",
-    "got": "^9.2.2",
+    "got": "^12.5.3",
     "ua-string": "^1.2.0"
   }
 }
